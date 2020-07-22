@@ -32,7 +32,7 @@
 4)It will save the model in google drive.
 =================================================================================================
 
-Running object detection and quality prediction model:
+### Running object detection and quality prediction model:
 --------------------------------------------------------
 1)Once the object detection and quality prediction classifier models are trained,download it in a local computer.
 2)Open the "Litchi detection and quality prediction.ipynb" notebook.
