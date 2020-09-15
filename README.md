@@ -33,3 +33,5 @@
 4)Specify the path for images.\
 5)Run the complete code.It will show the results after every image.\
 6)Down below,there is a code for cropping the image of each object detected and saving it in a folder.This can be used to generate more dataset for quality prediction.
+
+[![HitCount](http://hits.dwyl.com/srinivasmathur/Computer_Vision_Internship-Ecozen.svg)](http://hits.dwyl.com/srinivasmathur/Computer_Vision_Internship-Ecozen)
