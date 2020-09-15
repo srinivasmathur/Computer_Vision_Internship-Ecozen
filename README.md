@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.com/srinivasmathur/Computer_Vision_Internship-Ecozen.svg)](http://hits.dwyl.com/srinivasmathur/Computer_Vision_Internship-Ecozen)
-
 # Computer_Vision_Internship-Ecozen
 
 ## Application of Computer Vision for fruit detection and quality prediction-
